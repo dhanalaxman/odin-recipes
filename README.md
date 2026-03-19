@@ -1,1 +1,1 @@
-# odin-recipes
+This is the first peoject, in the Odin project foundations course. I hope to implement all the html knowledge i have learnt in previous lessons and complete the project successfully. I will be using html tags, html attributes and all other miscellaneous stuff to complete this project. I hope this is the start of my lifelong software development career.
